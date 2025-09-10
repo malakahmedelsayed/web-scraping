@@ -3,7 +3,7 @@
 
 📌 Project Overview
 
-This project focuses on exploring books from Project Gutenberg (https://www.gutenberg.org/ebooks/). (https://www.gutenberg.org/ebooks/)
+This project focuses on exploring books from Project Gutenberg (https://www.gutenberg.org/ebooks/).
 I scraped the data, cleaned it, performed analysis and visualization, and finally built a Streamlit web application to make the insights interactive and accessible.
 
 🚀 Features
